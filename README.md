@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Sharma</h1>
-<h3 align="center">Experienced Frontend Developer with 3+ years in a B2B SaaS-based IoT startup, focusing on end-to-end project development. Proficient in React JS and Next JS, with expertise in designing scalable system architectures. I excel in collaborative environments, leveraging diverse teams to deliver high-quality solutions.</h3>
+<h3 align="center">Experienced Frontend Developer with 4+ years in a B2B SaaS-based IoT startup, focusing on end-to-end project development. Proficient in React JS and Next JS, with expertise in designing scalable system architectures. I excel in collaborative environments, leveraging diverse teams to deliver high-quality solutions.</h3>
 
 - 🔭 I’m currently working on **Psiborg Technologies.pvt.ltd**
 
