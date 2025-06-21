@@ -1,70 +1,121 @@
-# 👋 Hi, I'm Sudhanshu Sharma
+<h1 align="center">Hi 👋, I'm Sudhanshu Sharma</h1>
+<h3 align="center">Frontend Developer | React.js • Next.js • TypeScript • AWS • Real-time Systems</h3>
 
-🎯 **Frontend Developer | React.js • Next.js • TypeScript • Tailwind**  
-🚀 5+ years of experience in building scalable, secure, and high-performance web applications.
-
----
-
-## 💼 About Me
-
-I'm an experienced frontend developer with 5 years of experience, specializing in React.js and Next.js.  
-At my current role in a B2B SaaS-based IoT startup (Psiborg Technologies), I lead end-to-end development of production-grade applications—from UI architecture to deployment.
-
-I enjoy working in collaborative environments, turning Figma designs into pixel-perfect, responsive, and performant UIs.
+<p align="center">
+Experienced Software Engineering Lead with 5+ years in B2B SaaS and IoT platforms.  
+Specializing in frontend development with React and Next.js, I design secure, scalable UIs for real-time systems.  
+I lead cross-functional teams to build products in logistics, EdTech, IoT, AdTech, and more.
+</p>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🧑‍💻 Currently
 
-**Frontend:**  
-React.js, Next.js (CSR & SSR), TypeScript, JavaScript, Redux Toolkit, RTK Query, React Query, React-Hook-Form, Tailwind CSS, Material UI, SCSS, HTML5, CSS3, Chart.js, ApexCharts, React-Leaflet, Google Maps API, Mapbox
-
-**Backend & Real-time:**  
-Node.js, MongoDB, Redis, RabbitMQ, WebSocket, MQTT, TCP, REST APIs
-
-**Testing & DevTools:**  
-Jest, Cypress, Postman, GitHub Actions, Docker, ESLint, Prettier
-
-**Deployment & DevOps:**  
-AWS (EC2, S3, Route53, VPC), Nginx, Docker, CI/CD Pipelines, Firebase, Heroku, Netlify
-
-**Productivity & Design:**  
-Figma, Notion, Asana, Jira, Trello
-
-**Other Tools:**  
-Electron.js, VSCode, FileZilla, PuTTY
-
-
-**Design & Collaboration:**  
-Figma • Notion • Chart.js  
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
+- 🔭 Working at **[Psiborg Technologies Pvt. Ltd.](https://psiborg.in/)** as **Software Engineering Lead**
+- 🧠 Exploring **Angular** and **Advanced System Architecture**
+- ⚙️ Managing full-cycle projects — from planning & design to deployment & scaling
 
 ---
 
-## 📚 I'm Currently Exploring:
-- 🔄 Angular (for multi-framework exposure)
-- 🧠 System Architecture & Scalable Frontend Patterns
+### 📂 Featured Projects
+
+- **Safome SOS System** – TCP-based smartwatch tracking system  
+  [Admin](https://admin.safome.co/auth/signin) | [User](https://app.safome.co/auth/signin) | [Site](https://safome.co/)
+
+- **Manpower Tracking** – IoT trolley tracking using RSSI  
+  [Admin](https://track.psiborg.io/)
+
+- **Charging Station Management** – Fleet energy & usage analytics  
+  [Admin](http://admin.eim.digital/)
+
+- **Brainstorm LMS** – Admin + Teacher + Offline Panel with TV APK  
+  [Admin](https://admin.brainstorminternational.co.in/login)
+
+- **PostMyAd / Ilanati** – Digital billboard ad-tech + Dubai DOOH  
+  [User](https://app.postmyad.ai/explore) | [Ilanati](https://app.ilanati.com/)
+
+- **Shipment Monitoring** – Real-time IoT fleet tracking system  
+  [View](https://www.notion.so/Admin-1c2f00e773438019ab9ac40db19fe879?pvs=21)
+
+- **Trulynk Kids Tracker** – GPS, SpO2, SOS alerts  
+  [Admin](https://admin.trulynk.org/)
+
+- **Livestock Monitoring** – IoT-based cattle health & activity  
+  [User Panel](https://app.albarn.tech/)
 
 ---
 
-## 📂 Featured Projects
+### 📫 Contact Me
 
-🔗 Portfolio: [View My Work](https://sudhanshu-portfolio-v2.vercel.app/)  
-📄 Resume: [Open in Notion](https://sudhanshu--sharma.notion.site/Sudhanshu-Sharma-24e6323303bc4119b6c0c7513e4df665?pvs=74)
-
----
-
-## 💬 Let's Connect
-
-📧 Email: sudhanshu90586@gmail.com  
-🔗 LinkedIn: [Sudhanshu Sharma](https://www.linkedin.com/in/sudhanshu-sharma-657aa5207/)  
-🐱 GitHub: [SudhanshuScript](https://github.com/SudhanshuScript)
+- 📧 **sudhanshu90586@gmail.com**
+- 📱 **+91 8077445265**
+- 🌐 [Portfolio](https://sudhanshu-portfolio-v2.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/sudhanshu-sharma-657aa5207/)
+- 🧠 [Resume (Notion)](https://sudhanshu--sharma.notion.site/Sudhanshu-Sharma-24e6323303bc4119b6c0c7513e4df665?pvs=74)
+- 🧑‍🎓 MCA | RBMI College | Bareilly
 
 ---
 
-_“Consistency + Simplicity = Great UX.”_  
-Let’s build something amazing together! 🌟
+### 🛠 Tech Stack & Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhanshuScript&show_icons=true&locale=en&layout=compact" alt="SudhanshuScript" /></p>
+#### Frontend  
+React.js • Next.js • TypeScript • Redux Toolkit • RTK Query • React Query  
+Tailwind CSS • SCSS • MUI • HTML5 • CSS3 • Electron.js
 
+#### Backend & Real-time  
+Node.js • MongoDB • Redis • RabbitMQ • REST API  
+MQTT • WebSocket • TCP/IP Communication
+
+#### Data Viz & Maps  
+Chart.js • ApexCharts • Google Maps API • React Leaflet • Mapbox
+
+#### DevOps & Deployment  
+AWS (EC2, S3, Route53, VPC) • Docker • Nginx • GitHub Actions • Firebase • Heroku
+
+#### Testing & Monitoring  
+Jest • Cypress • Postman • ESLint • CI/CD
+
+#### Collaboration & Management  
+Asana • Jira • Notion • Figma • Trello • VSCode • FileZilla • PuTTY
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Most Goals Achievement Award – 2023**  
+  [Proof](https://drive.google.com/file/d/1Xvrl2s_l6b8l0bYly2mhSIEa5vSW9ewm/view?usp=drive_link)
+
+---
+
+### 📱 Published Apps
+
+- **PostMyAd**  
+  [App Store 🇮🇳](https://apps.apple.com/in/app/postmyad-diy-digital-ad/id6448530254) | [Play Store](https://play.google.com/store/apps/details?id=com.postmyadd)
+
+- **Ilanati**  
+  [App Store](https://apps.apple.com/in/app/ilanati/id6475957884) | [Play Store](https://play.google.com/store/apps/details?id=com.postmyadilanati)
+
+- **Trulynk**  
+  [Play Store](https://play.google.com/store/apps/details?id=com.trulynk)
+
+- **Safome**  
+  *(Currently on TestFlight)*
+
+---
+
+### 📘 System Design Docs
+
+- [PostMyAd Architecture](https://shorturl.at/cwDMY)  
+- [Shipment Tracking](https://rb.gy/nmfhqk)  
+- [Brainstorm LMS](https://shorturl.at/cjk05)  
+- [Mckey Ecommerce](https://rb.gy/nmfhqk)  
+- [RHMS Healndia](https://rb.gy/ha6aat)
+
+---
+
+### 💡 Quote I Live By  
+> “Consistency, Clarity, and Collaboration are the keys to great Engineering.”
+
+---
+
+Would you like me to push this to your GitHub profile as a PR or format it for copy-paste into your `README.md` file?
