@@ -12,7 +12,7 @@ I lead cross-functional teams to build products in logistics, EdTech, IoT, AdTec
 ### 🧑‍💻 Currently
 
 - 🔭 Working at **[Psiborg Technologies Pvt. Ltd.](https://psiborg.in/)** as **Software Engineering Lead**
-- 🧠 Exploring **Angular** and **Advanced System Architecture**
+- 🧠Deepening my expertise in Full Stack Development while exploring AI/ML technologies to integrate intelligence into modern web platforms.
 - ⚙️ Managing full-cycle projects — from planning & design to deployment & scaling
 
 ---
