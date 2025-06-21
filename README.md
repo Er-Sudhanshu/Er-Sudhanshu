@@ -14,19 +14,26 @@ I enjoy working in collaborative environments, turning Figma designs into pixel-
 
 ---
 
-## 🛠 Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-**Languages & Frameworks:**  
-JavaScript • TypeScript • HTML5 • CSS3 • React.js • Next.js • Redux • React Native • Angular (learning)  
+**Frontend:**  
+React.js, Next.js (CSR & SSR), TypeScript, JavaScript, Redux Toolkit, RTK Query, React Query, React-Hook-Form, Tailwind CSS, Material UI, SCSS, HTML5, CSS3, Chart.js, ApexCharts, React-Leaflet, Google Maps API, Mapbox
 
-**Styling:**  
-TailwindCSS • SCSS • Styled Components  
+**Backend & Real-time:**  
+Node.js, MongoDB, Redis, RabbitMQ, WebSocket, MQTT, TCP, REST APIs
 
-**Testing & Dev Tools:**  
-Jest • Cypress • Mocha • Postman • Git • Webpack • Babel  
+**Testing & DevTools:**  
+Jest, Cypress, Postman, GitHub Actions, Docker, ESLint, Prettier
 
-**Cloud & DevOps:**  
-AWS • Firebase • Heroku • Docker • Nginx • Kubernetes  
+**Deployment & DevOps:**  
+AWS (EC2, S3, Route53, VPC), Nginx, Docker, CI/CD Pipelines, Firebase, Heroku, Netlify
+
+**Productivity & Design:**  
+Figma, Notion, Asana, Jira, Trello
+
+**Other Tools:**  
+Electron.js, VSCode, FileZilla, PuTTY
+
 
 **Design & Collaboration:**  
 Figma • Notion • Chart.js  
