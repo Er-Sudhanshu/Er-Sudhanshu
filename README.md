@@ -14,7 +14,6 @@ I lead cross-functional teams to build products in logistics, EdTech, IoT, AdTec
 - 🔭 Working at **[Psiborg Technologies Pvt. Ltd.](https://psiborg.in/)** as **Software Engineering Lead**
 - 🧠 Exploring **Angular** and **Advanced System Architecture**
 - ⚙️ Managing full-cycle projects — from planning & design to deployment & scaling
-- 🔗 Portfolio: [View My Work](https://sudhanshu-portfolio-v2.vercel.app/)  
 
 ---
 
