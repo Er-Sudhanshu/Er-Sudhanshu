@@ -48,7 +48,6 @@ Asana • Jira • Notion • Figma • Trello • VSCode • FileZilla • PuTT
 - 📧 **sudhanshu90586@gmail.com**
 - 🌐 [Portfolio](https://sudhanshu-portfolio-v2.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/sudhanshu-sharma-657aa5207/)
-- 🧠 [Resume (Notion)](https://sudhanshu--sharma.notion.site/Sudhanshu-Sharma-123f00e7734380eabffbf757eb9fcc48)
 - 🧑‍🎓 MCA | RBMI College | Bareilly
 
 ---
