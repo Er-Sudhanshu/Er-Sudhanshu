@@ -59,5 +59,3 @@ Asana • Jira • Notion • Figma • Trello • VSCode • FileZilla • PuTT
 > “Consistency, Clarity, and Collaboration are the keys to great Engineering.”
 
 ---
-
-Would you like me to push this to your GitHub profile as a PR or format it for copy-paste into your `README.md` file?
